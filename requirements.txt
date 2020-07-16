@@ -1,0 +1,8 @@
+click
+requests
+urllib3
+werkzeug
+peewee
+logbook
+flask
+pytest
